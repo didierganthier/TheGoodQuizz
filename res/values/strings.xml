@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">KitemPozewKesyon</string>
+
+    <string name="true_button">Evre</string>
+    <string name="false_button">Epavre</string>
+    <string name="initial_score">Eskò 0/13</string>
+
+
+    <string name="incorrect_toast">Ou pa jwenn li!</string>
+    <string name="correct_toast">Ou jwenn li!</string>
+
+    <string name="question_1">TroubleBoy te rapè de lane an 2018.</string>
+    <string name="question_2">Se Venezuela ki te bay kòb petrokaribe a.</string>
+    <string name="question_3">Rutshelle te bo ak Richard Cavé.</string>
+    <string name="question_4">Ayiti se premye peyi nwa ki pran endependans li.</string>
+    <string name="question_5">Donald Guerrier te fè on gòl lejandè kont Espagne nan on ti match amikal.</string>
+    <string name="question_6">Jovenel Moise te pwomet kouran 24/24 nan 12 mwa.</string>
+    <string name="question_7">Oligarts te fè pati 24 jen ki te make ane 2018 lan.</string>
+    <string name="question_8">Krèk Koko se yon palmantè.</string>
+    <string name="question_9">Arnel ak Tije se 2 gwo dirijan nan peyi a.</string>
+    <string name="question_10">Jean Henry Ceant, premye minis aktyèl la te advèsè prezidan an nan kous elektoral la.</string>
+    <string name="question_11">Se Jovenel Moise a.k.a neg bannann lan ki fè jwèt ki rele \'neg bannann lan\'.</string>
+    <string name="question_12">Roody Roodboy te genyen lel te patisipe nan Digicel Stars.</string>
+    <string name="question_13">Slogan babay Nicole la se Papi ki te potel.</string>
+
+</resources>
+
